@@ -1,6 +1,8 @@
 import { NumbersCollection } from './NumbersCollection';
 import { CharactersCollection } from './CharactersCollection';
 import { LinkedList } from './LinkedList';
+//test codes
+/*
 const numbersCollection = new NumbersCollection([10, 3, -5, 0]);
 
 console.table([numbersCollection.data]);
@@ -14,3 +16,5 @@ linkedList.add(-1);
 linkedList.add(0);
 linkedList.sort();
 linkedList.print();
+/*
+//test codes
